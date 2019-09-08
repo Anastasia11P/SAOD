@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Enterprise Name="Nastya">
+  <WorkShop Number="1" Size="2">
+    <Equipment NameEquipment="Super" CountEquipment="5" />
+  </WorkShop>
+  <WorkShop Number="17" Size="4">
+    <Equipment NameEquipment="Niyaz" CountEquipment="1" />
+    <Equipment NameEquipment="LOL" CountEquipment="5" />
+  </WorkShop>
+</Enterprise>
